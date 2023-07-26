@@ -1,5 +1,4 @@
-# Roadmap-for-python-developers-
-Roadmap for becoming Python developer.
+
 
 # Python Developer Roadmap
 
